@@ -8,7 +8,7 @@ const newNumbers = numbers.filter(function(num) {
 
 console.log(newNumbers);
 
-// forEach!
+// Other way to do it with forEach!
 
 // let newNumbers = [];
 // numbers.forEach(function(num) {
