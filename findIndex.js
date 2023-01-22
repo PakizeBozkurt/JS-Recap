@@ -3,6 +3,7 @@
 let numbers = [3, 56, 2, 48, 5];
 
 const newNumber = numbers.findIndex(function (num) {
+    // Condition!
     return num >10;
 })
 
