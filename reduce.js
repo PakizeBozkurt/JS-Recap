@@ -9,6 +9,7 @@ let newNumber = numbers.reduce(function (accumulator, currentNumber) {
 // Or
 
 // let newNumber = 0;
+
 // numbers.forEach(function (currentNumber) {
 //     newNumber += currentNumber
 // })
